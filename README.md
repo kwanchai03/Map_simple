@@ -1,2 +1,2 @@
 # Map_simple
-Map google
+ถามพิกัดแผนที่ปัจจุบัน
